@@ -4,7 +4,7 @@
 
 1. 首次使用打开ulaminer，会弹出如下对话框：
 
-   ![1557642539060](.\images\set-global-crypto-code.png)
+   ![1557642539060](./images/set-global-crypto-code.png)
 
    此代码就是在ulamchain.io上创建账户是输入的密码。必须填写。
 
@@ -14,19 +14,19 @@
 
 2. 如果您还没有任何ULAM账户，需要在Ulaminer上创建账户，点击`我的钱包` 点击新建账户按钮
 
-   ![1557642848259](.\images\create-new-accounts.png)
+   ![1557642848259](./images/create-new-accounts.png)
 
    弹出对话框中，Keystore加密代码就是刚才用户输入的代码，输入要创建账户的数量后，点击锤子标志创建。
 
-   ![1557642986939](.\images\create-new-accounts-batch.png)
+   ![1557642986939](./images/create-new-accounts-batch.png)
 
    点击创建后，对话框可以关闭，新建的账户的代理私钥自动生成，例如此时输入批量创建5个账户。点击创建。程序反应如下：
 
-   ![1557643088542](.\images\create-new-accounts-batch-react.png)
+   ![1557643088542](./images/create-new-accounts-batch-react.png)
 
    代理私钥自动生成，如下图所示。
 
-   ![1557643140560](.\images\create-new-accounts-batch-auto-apk.png)
+   ![1557643140560](./images/create-new-accounts-batch-auto-apk.png)
 
    此时账户中没有ULAM余额，需要外部通过其他途径充值ULAM账户。
 
